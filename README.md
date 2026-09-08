@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Demo
 
-Coming soon — the portfolio will be deployed on Vercel.
+https://portfolio-eosin-delta-j8pj4ehpil.vercel.app/
 
 ## 👩‍💻 About
 
