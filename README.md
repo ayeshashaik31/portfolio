@@ -1,16 +1,42 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, and experience as a Full Stack Web Developer.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming soon — the portfolio will be deployed on Vercel.
 
-## React Compiler
+## 👩‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Welcome to my portfolio! This website showcases my journey as a web developer, including my technical skills, projects, and experience.
 
-## Expanding the ESLint configuration
+I enjoy building responsive, user-friendly web applications and continuously improving my skills in modern web technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+
+## ✨ Features
+
+* Responsive design
+* About Me section
+* Skills section
+* Projects showcase
+* Contact section
+* Responsive navigation
+* Modern and clean UI
+
+## 📬 Contact
+
+Feel free to connect with me for opportunities, collaborations, or any questions.
+
+
+* LinkedIn: [https://www.linkedin.com/in/ayesha31/]
+* Email: [skayesha3121@gmail.com]
+
+## 📌 Project Status
+
+This portfolio is actively being improved and updated as I continue learning and building new projects.
